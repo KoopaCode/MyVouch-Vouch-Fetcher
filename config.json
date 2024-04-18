@@ -1,0 +1,7 @@
+{
+    "Vouch": {
+      "MyVouch_URL": "https://myvouch.es/koopa", // Replace with you're MyVouch.es URL
+      "Request_Delay": 10
+    }
+  }
+  
